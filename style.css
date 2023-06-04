@@ -1,0 +1,40 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+    background-color: whitesmoke;
+}
+
+h1 {
+    color: #333333;
+}
+
+p {
+    color: #666666;
+}
+
+.container {
+    max-width: 650px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    padding: 30px;
+    border-radius: 5px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+}
+span{
+    color: red;
+}
+marquee{
+    background-color: aqua;
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+}
+footer{
+    background-color: #666666;
+    padding: 25px;
+}
+footer p{
+    color: white;
+    text-align: center;
+}
